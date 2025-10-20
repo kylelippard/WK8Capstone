@@ -1,4 +1,5 @@
 POS System
+
 A modern Point of Sale system built with SwiftUI and GRDB for managing wireless service customers, lines, and device inventory.
 Features
 📱 Customer Management
