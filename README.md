@@ -80,7 +80,26 @@ iOS 17.0+
 Xcode 15.0+
 Swift 5.9+
 
-Installation
+IMEI Availability System
+Devices are automatically tracked based on assignment to lines:
 
-Clone the repository:
+Unassigned IMEIs are available for selection
+Assigned IMEIs are filtered out
+No status column needed - assignment determines availability
+
+Contributing
+
+Fork the repository
+Create a feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+Acknowledgments
+
+GRDB.swift for excellent SQLite wrapper
+SwiftUI for modern iOS UI development
+Apple's Swift Concurrency for safe async operations
 
