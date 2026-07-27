@@ -103,3 +103,4 @@ GRDB.swift for excellent SQLite wrapper
 SwiftUI for modern iOS UI development
 Apple's Swift Concurrency for safe async operations
 
+[Click here to view the file]()
