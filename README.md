@@ -103,4 +103,4 @@ GRDB.swift for excellent SQLite wrapper
 SwiftUI for modern iOS UI development
 Apple's Swift Concurrency for safe async operations
 
-![Click here to view the ScreenRecording of POS.mov](ScreenRecording_10-20-2025 11-06-23_1.mov)
+!(ScreenRecording_10-20-2025 11-06-23_1.mov)
